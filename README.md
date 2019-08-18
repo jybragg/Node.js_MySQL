@@ -5,7 +5,7 @@ This app is liken to Amazon-like storefront using Node and MySQL. The app will t
 
 1. First, the app will display all of the items available for sale. 
 
-![Image of initial inventory](/images/app.png)
+![Image of initial inventory](/Images/app.png)
 
 2. Then, the app will prompt users with two messages.
     * The first asks them the ID of the product they would like to buy.
@@ -18,4 +18,4 @@ This app is liken to Amazon-like storefront using Node and MySQL. The app will t
 
 5. If not, the app should log a phrase like `Insufficient quantity!`, and then prevent the order from going through.
 
-![Image of initial inventory](/images/none.png)
+![Image of initial inventory](/Images/none.png)

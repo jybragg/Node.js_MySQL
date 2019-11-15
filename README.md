@@ -10,10 +10,10 @@ StoreFront is an Amazon-like app that uses Node.js and MySQL. The app will take 
 ![Image of initial inventory](/Images/app.png)
 
 2. Then, the app will prompt users with two messages.
-    * The first asks them the ID of the product they would like to buy.
+    * The first it asks them for the ID of the product they would like to buy.
     * The second message asks how many units of the product they would like to buy.
 
-3. Once the customer has placed the order, the application will CHECK if the store has enough of the product to meet    the customer's request.
+3. Once the customer has placed the order, the application will CHECK if the store has enough of the product to meet the customer's request.
 
 4. If the store has enough of the product, the customer's order will be fullfilled.
     * The SQL database will update to reflect the remaining quantity.

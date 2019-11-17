@@ -1,7 +1,7 @@
 # StoreFront
 
 ## Description
-StoreFront is an Amazon-like app that uses Node.js and MySQL. The app will take in orders from customers and deplete stock from the store's inventory.
+StoreFront is an Amazon-like app that uses Node.js and MySQL. This Command Line Interfacing Application will take in orders from customers and deplete stock from the store's inventory.
 
 ## How the App works:
 
